@@ -18,11 +18,13 @@ The report will be generate.
 
 # Example Use
 ---
+Before start, you can try with example vulnerability app[https://github.com/djadmin/vulnerable-app]. Download it and try this program!
+
 After installing all the required dependencies, the next step is to run the program using the following command:
 ```
 python3 main.py vulnerable-app report_dir
 ```
-The program will analyze the specified directory for vulnerabilities. In the example below, I will scan the vulnerable-app folder and generate a report in PDF format.
+The program will analyze the specified directory for vulnerabilities. In the example below, I will scan the vulnerable-app folder and generate a report in PDF format. <br><br>
 <img src="image/example.jpg" alt="example test" width="300" height="200">
 
 # Core Code
