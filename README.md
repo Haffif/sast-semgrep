@@ -23,7 +23,7 @@ After installing all the required dependencies, the next step is to run the prog
 python3 main.py vulnerable-app report_dir
 ```
 The program will analyze the specified directory for vulnerabilities. In the example below, I will scan the vulnerable-app folder and generate a report in PDF format.
-<img src="path/to/your-image.jpg" alt="Deskripsi Gambar" width="300" height="200">
+<img src="image/example.jpg" alt="example test" width="300" height="200">
 
 # Core Code
 - run_semgrep(directory) Function
